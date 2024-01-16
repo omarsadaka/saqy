@@ -1,0 +1,36 @@
+import { StyleSheet } from 'react-native';
+import { moderateScale } from '../../utils/moderateScale';
+
+
+const style = StyleSheet.create({
+    container: {
+        width: '100%',
+        height: '100%',
+        alignItems: 'center',
+        backgroundColor: '#FFFFFF'
+    },
+    logoContainer: {
+        justifyContent: 'center',
+        alignItems: 'center',
+        height: '40%',
+    },
+    textStyle: {
+        textAlign: 'center',
+        textAlignVertical: 'center',
+        marginTop: '5%',
+        fontSize: moderateScale(18)
+    },
+    backgroundPic: {
+        position: 'absolute',
+        bottom: 0,
+        left: 0,
+        width: '80%',
+        height: '40%',
+        alignItems: 'flex-end',
+        //opacity: 0.1,
+        zIndex: 1
+    }
+})
+
+
+export default style

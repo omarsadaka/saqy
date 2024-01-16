@@ -1,0 +1,9 @@
+export const send_sms_loading = 'send_sms_loading';
+export const send_sms_success = 'send_sms_success';
+export const send_sms_fail = 'send_sms_fail';
+export const generate_code_loading = 'generate_code_loading';
+export const generate_code_success = 'generate_code_success';
+export const generate_code_fail = 'generate_code_fail';
+export const save_attempts_success = 'save_attempts_success';
+export const save_attempts_fail = 'save_attempts_fail';
+export const code_attempts = 'code_attempts';

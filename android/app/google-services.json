@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "851662776147",
+    "project_id": "saqy-3aa0a",
+    "storage_bucket": "saqy-3aa0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851662776147:android:5c529b220ec21a032a23a6",
+        "android_client_info": {
+          "package_name": "com.saqy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851662776147-go6o2lb9qflqhn4n1870g1op9k4s9t26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saqy",
+            "certificate_hash": "f1f7368fdbc95eb11c6917e6649a779bc84bb84a"
+          }
+        },
+        {
+          "client_id": "851662776147-u9q4lh8rrijssgqbr24278429pqk0jpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNfSZmwlTucXc6Nfetos5BGjpSBMl6T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851662776147-u9q4lh8rrijssgqbr24278429pqk0jpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
